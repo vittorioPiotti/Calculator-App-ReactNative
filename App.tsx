@@ -333,4 +333,4 @@ bgLightDark: {
 backgroundColor: '#afafaf'
 }
 });
-export default
+export default App;
