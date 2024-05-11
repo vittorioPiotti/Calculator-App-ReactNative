@@ -6,18 +6,18 @@ Calcolatrice Mobile Responsive (Horizontal - Vertical) in React-Native senza lib
 
  Icona realizzata con [Figma](https://www.figma.com/)   
 
-<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/icon.png" alt="Icona" width="200"/>
+<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/icon.png" alt="Icona" width="100"/>
 
 
 ## Display Verticale
 
 
 
-<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_horizontal.png" alt="Icona" width="400"/>
+<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_horizontal.png" alt="Icona" width="300"/>
 
 ## Display Orizzontale
 
-<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_vertical.png" alt="Icona" width="400"/>
+<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_vertical.png" alt="Icona" width="300"/>
 
 
 
