@@ -19,13 +19,14 @@ Applicazione Galcolatrice: [Link all'App](h7mfqc.csb.app/Calcolatrice)
 
 Le schermate sono state acquisite da un dispotivo IOS 
 
-## Display Verticale
 
-<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_horizontal.png" alt="Icona" width="300"/>
+| Vertical | Horizontal|
+ ------------ | ------------ |
+<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_vertical.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_horizontal.png" alt="Icona" width="300"/>
+| 
 
-## Display Orizzontale
 
-<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_vertical.png" alt="Icona" width="300"/>
+
 
 
 
