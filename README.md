@@ -22,7 +22,7 @@ Le schermate sono state acquisite da un dispotivo IOS
 
 | Vertical | Horizontal|
  ------------ | ------------ |
-<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_vertical.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_horizontal.png" alt="Icona" width="620"/>
+<img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_vertical.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/calc_screenshot_horizontal.png" alt="Icona" width="600"/>
 | 
 
 
