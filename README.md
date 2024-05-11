@@ -2,7 +2,7 @@
 
 Calcolatrice Mobile Responsive (Horizontal - Vertical) in React-Native senza librerie esterne sul design della calcolatrice di IOS
 
-**se numero di cifre troppo grande errore perchè non è stata implementata la gestione delle approssimazioni**
+**Se numero di cifre troppo grande errore perchè non è stata implementata la gestione delle approssimazioni**
 
 ## Icona
 
