@@ -4,6 +4,10 @@ Calcolatrice Mobile Responsive (Horizontal - Vertical) in React-Native senza lib
 
 **Se numero di cifre troppo grande errore perchè non è stata implementata la gestione delle approssimazioni**
 
+## Ispirazione
+
+La calcolatrice in React Native è stata ispirata dal modello di quella di IOS: [Calcolatrice IOS](https://apps.apple.com/it/app/calcolatrice/id1069511488)
+
 ## Icona
 
  Icona realizzata con [Figma](https://www.figma.com/)   
