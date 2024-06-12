@@ -17,7 +17,7 @@ La calcolatrice in React Native è stata ispirata dal modello di quella di IOS: 
 
 ## Applicazione
 
-Applicazione Galcolatrice: [Link all'App](h7mfqc.csb.app/Calcolatrice)
+Applicazione Galcolatrice: [Link all'App](https://h7mfqc.csb.app/Calcolatrice)
 
 ---
 
