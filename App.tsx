@@ -1,3 +1,22 @@
+/*
+  Calcolatrice-React-Native v1.0.0 (https://github.com/vittorioPiotti/Calcolatrice-React-Native/releases/tag/1.0.0)
+  Copyright 2024 Vittorio Piotti
+  Licensed under GPL-3.0 (https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/LICENSE.md)
+*/
+
+/*
+  React Native v0.74.0 (https://github.com/facebook/react-native/releases/tag/v0.74.0)
+  Copyright Facebook, Inc.
+  Licensed under MIT (https://github.com/facebook/react-native/blob/main/LICENSE)
+*/
+
+/**
+ * @access public
+ * @author Vittorio Piotti
+ * @class App.tsx
+ * @description Calcolatrice 
+*/
+
 import React, { useState } from 'react';
 import { SafeAreaView, View, Text, StyleSheet, TouchableOpacity }
 from 'react-native';
