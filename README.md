@@ -30,6 +30,16 @@ Le schermate sono state acquisite da un dispotivo IOS
  
 
 
+## Licenza
+
+| Componente             | Versione | Copyright            | Licenza                                                                                          |
+|------------------------|----------|----------------------|--------------------------------------------------------------------------------------------------|
+| Calcolatrice-React-Native| v1.0.0   | 2024 Vittorio Piotti | [GPL-3.0 License](https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/LICENSE.md) |
+| React Native           | v0.74.0  | Facebook, Inc.       | [MIT License](https://github.com/facebook/react-native/blob/main/LICENSE)                         |
+
+
+
+
 
 
 
