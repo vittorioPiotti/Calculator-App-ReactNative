@@ -1,6 +1,6 @@
 # Calcolatrice React Native
 
-Calcolatrice Mobile Responsive (Horizontal - Vertical) in React-Native senza librerie esterne sul design della calcolatrice di IOS
+Calcolatrice Mobile con Rotazione Schermo in React-Native senza librerie esterne sul design della calcolatrice di IOS
 
 
 > [!CAUTION]
