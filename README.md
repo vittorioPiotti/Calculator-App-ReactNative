@@ -7,15 +7,16 @@ Calcolatrice Mobile con Rotazione Schermo in React-Native senza librerie esterne
 > Se numero di cifre troppo grande errore perchè non è stata implementata la gestione delle approssimazioni
 
 
-## Ispirazione
-
-La calcolatrice in React Native è stata ispirata dal modello di quella di IOS: [Calcolatrice IOS](https://apps.apple.com/it/app/calcolatrice/id1069511488)
 
 ## Icona
 
  Icona realizzata con [Figma](https://www.figma.com/)   
 
 <img src="https://github.com/vittorioPiotti/Calcolatrice-React-Native/blob/main/icon.png" alt="Icona" width="100"/>
+
+## Ispirazione
+
+La calcolatrice in React Native è stata ispirata dal modello di quella di IOS: [Calcolatrice IOS](https://apps.apple.com/it/app/calcolatrice/id1069511488)
 
 
 ## Applicazione
