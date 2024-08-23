@@ -2,6 +2,10 @@
 
 Calcolatrice Mobile con Rotazione Schermo in React-Native senza librerie esterne sul design della calcolatrice di IOS
 
+> [!NOTE]
+> Il progetto è stato sviluppato a scuola per fini scolastici in funzione della consegna assegnata dal docente come lavoro individuale
+
+
 
 > [!CAUTION]
 > Se numero di cifre troppo grande errore perchè non è stata implementata la gestione delle approssimazioni
