@@ -10,6 +10,9 @@ Calcolatrice Mobile con Rotazione Schermo in React-Native senza librerie esterne
 > [!CAUTION]
 > Se numero di cifre troppo grande errore perchè non è stata implementata la gestione delle approssimazioni
 
+### Support Me
+
+[<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
 
 
 ## Icona
