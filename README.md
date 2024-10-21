@@ -40,7 +40,7 @@ Le schermate sono state acquisite da un dispotivo IOS
  
 
 
-## Licenza
+## Licenze
 
 
 
