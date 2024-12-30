@@ -3,7 +3,7 @@
 Calcolatrice Mobile con Rotazione Schermo in React-Native senza librerie esterne sul design della calcolatrice di IOS
 
 > [!NOTE]
-> Progetto scolastico 🎓
+> Progetto scolastico 🎓 · Ⅴ
 
 
 > [!CAUTION]
